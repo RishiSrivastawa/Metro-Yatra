@@ -1,4 +1,4 @@
-🚇 Delhi Metro Route Finder
+🚇 Metro Yatra 
 <p align="center"> <img src="./images/logo/train.png" width="120" alt="Delhi Metro Logo"> </p> <p align="center"> <b>A C++ based console application to calculate shortest paths, fares, and interchanges in the Delhi Metro Network.</b> </p> <p align="center"> <!-- Badges --> <img src="https://img.shields.io/github/stars/your-username/delhi-metro-route-finder?style=for-the-badge&logo=github" alt="GitHub Stars"> <img src="https://img.shields.io/github/forks/your-username/delhi-metro-route-finder?style=for-the-badge&logo=github" alt="GitHub Forks"> <img src="https://img.shields.io/github/issues/your-username/delhi-metro-route-finder?style=for-the-badge&logo=github" alt="GitHub Issues"> <img src="https://img.shields.io/github/license/your-username/delhi-metro-route-finder?style=for-the-badge" alt="License"> </p>
 ✨ Features
 
