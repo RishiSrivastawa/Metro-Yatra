@@ -42,7 +42,7 @@
 
 1️⃣ Clone repository
 
-    git clone https://github.com/your-username/delhi-metro-route-finder.git
+    git clone https://github.com/RishiSrivastawa/Metro-Yatra.git
     cd delhi-metro-route-finder
 
 2️⃣ Build
